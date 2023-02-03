@@ -1,6 +1,6 @@
 # Local installation
 
-- Clone this repository
+- Clone this repository (or download the folder Custom, the file SIMCA_notebook.ipynb and the file entorno_SIMCA.yml)
 - Install [Miniconda](https://docs.conda.io/en/main/miniconda.html)
 - Open conda prompt
 - Go to the folder repository
