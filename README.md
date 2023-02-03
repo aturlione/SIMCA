@@ -1,3 +1,6 @@
+# Open in Google colab
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aturlione/SIMCA/blob/master/SIMCA_NOTEBOOK.ipynb)
+
 # Local installation
 
 - Clone this repository (or download the folder Custom, the file SIMCA_notebook.ipynb and the file entorno_SIMCA.yml)
